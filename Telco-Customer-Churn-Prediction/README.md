@@ -104,3 +104,16 @@ The data was split into training (80%) and testing (20%) sets. The following mod
 * **Hyperparameter Tuning:** Use GridSearch or RandomSearch to optimize model parameters further.
 * **SMOTE:** Implement Synthetic Minority Over-sampling Technique to handle class imbalance in the target variable.
 * **Deep Learning:** Experiment with neural networks (e.g., ANN) to potentially improve accuracy.
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 👤 Author
+
+Mohammed Habeeb Mohsin Siddiqui
+- GitHub: [@MHMSiddiqui](https://github.com/MHMSiddiqui)
+- LinkedIn: [Habeeb Mohsin](https://www.linkedin.com/in/habeeb-mohsin-b29225254/)
