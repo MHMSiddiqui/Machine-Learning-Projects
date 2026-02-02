@@ -1,5 +1,10 @@
 # Housing Price Prediction using Linear Regression Models
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Jupyter Notebook](https://img.shields.io/badge/Tools-Jupyter%20Notebook-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Complete-success)
+
 A machine learning project that predicts housing prices based on various property features using Linear Regression, Ridge Regression, and Lasso Regression models. The project includes an interactive Gradio web interface for real-time price predictions.
 
 ## 📋 Table of Contents
